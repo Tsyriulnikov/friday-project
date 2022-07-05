@@ -21,5 +21,6 @@ return(
                 <Link to='/404'>Error 404</Link>
             </div>
         </nav>
+        <div>ver 0.1</div>
     </div>
 )}
