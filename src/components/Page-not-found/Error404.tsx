@@ -10,7 +10,7 @@ function Error404() {
             <div className={s.pnf}>404 - Page not found!</div>
             <div>
                 <button className={s.buttonHome} onClick={() => {
-                    navigate('/')
+                    navigate('/home')
                 }}>Home
                 </button>
             </div>
