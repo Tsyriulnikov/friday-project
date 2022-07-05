@@ -15,7 +15,7 @@ function Error404() {
                 </button>
             </div>
             <div>
-                <img src={Cat404}/>
+                <img alt={'cat'} src={Cat404}/>
             </div>
         </div>
     )
