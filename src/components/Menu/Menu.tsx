@@ -6,7 +6,7 @@ return(
     <div className={styleMenu.mainBlock}>
         <nav className={styleMenu.navigateBlock}>
             <div className={styleMenu.link}>
-                <Link to='/'>Home</Link>
+                <Link to='home'>Home</Link>
             </div>
             <div className={styleMenu.link}>
                 <Link to='login'>Login</Link>
@@ -20,7 +20,8 @@ return(
             <div className={styleMenu.link}>
                 <Link to='/404'>Error 404</Link>
             </div>
+
         </nav>
-        <div>ver 0.1</div>
+        <div>ver 0.2</div>
     </div>
 )}
