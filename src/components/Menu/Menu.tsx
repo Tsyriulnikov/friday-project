@@ -22,6 +22,6 @@ return(
             </div>
 
         </nav>
-        <div>ver 0.2</div>
+        <div>ver 0.3</div>
     </div>
 )}

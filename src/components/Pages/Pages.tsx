@@ -10,7 +10,7 @@ export const Pages = () => {
     return (
        <div>
         <Routes>
-            <Route path={"/friday-project"} element={<Navigate to="/home"/>}/>
+            <Route path={"/"} element={<Navigate to="/home"/>}/>
             <Route path={"/home"} element={<Home/>}/>
             <Route path={"/login"} element={<Login/>}/>
             <Route path={"/register"} element={<Register/>}/>
