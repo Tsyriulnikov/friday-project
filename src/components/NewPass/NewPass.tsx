@@ -1,10 +1,10 @@
 import React from "react";
 
 
-export const Home = () => {
+export const NewPass = () => {
     return (
         <div>
-            <h1>Home</h1>
+            <h1>New password</h1>
         </div>
 
     )

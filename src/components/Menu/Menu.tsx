@@ -20,8 +20,16 @@ return(
             <div className={styleMenu.link}>
                 <Link to='/404'>Error 404</Link>
             </div>
-
+            <div className={styleMenu.link}>
+                <Link to='forgot_pass'>Forgot pass</Link>
+            </div>
+            <div className={styleMenu.link}>
+                <Link to='new_pass'>New pass</Link>
+            </div>
+            <div className={styleMenu.link}>
+                <Link to='demo_page'>Demo page</Link>
+            </div>
         </nav>
-        <div>ver 0.3</div>
+        <div>ver 0.4</div>
     </div>
 )}
